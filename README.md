@@ -5,7 +5,7 @@
 <h2>💻 Cybersecurity Projects:</h2>
 
 - <b> Azure / Cloud Project </b>
-  - [Creaing a live SOC/Honeynet in Azure](https://github.com/Veroro321/Azure-SOC)
+  - [Creating a live SOC/Honeynet in Azure](https://github.com/Veroro321/Azure-SOC)
 
 <h2> 🤳 Connect with me:</h2>
 
