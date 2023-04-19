@@ -6,6 +6,11 @@
 
 - <b> Azure / Cloud Project </b>
   - [Creating a live SOC/Honeynet in Azure](https://github.com/Veroro321/Azure-SOC)
+  
+  
+<h2> Certifications </h2>
+- <b> Leveld Cybersecurity Analyst </b>
+ 
 
 <h2> 🤳 Connect with me:</h2>
 
