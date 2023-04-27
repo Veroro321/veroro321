@@ -11,7 +11,7 @@
   
 <h2> Certifications </h2>
 - <b> Leveld Cybersecurity Analyst </b>
- 
+- <b> IBM Introduction to Cybersecurity Tools & Cyber Attacks </b>
 
 <h2> 🤳 Connect with me:</h2>
 
