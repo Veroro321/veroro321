@@ -10,14 +10,15 @@
 - <b> Penetration testing with Python </b>
   
 <h2> Certifications </h2>
+  
 - <b> Leveld Cybersecurity Analyst </b>
+  
 - <b> IBM Introduction to Cybersecurity Tools & Cyber Attacks </b>
 
 <h2> 🤳 Connect with me:</h2>
 
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -27,6 +28,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
