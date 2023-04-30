@@ -10,6 +10,9 @@
 - <b> Penetration testing with Python </b>
    - [Penetration-Testing-With-Python](https://github.com/Veroro321/Penetration-Testing-With-Python)
   
+- <b> Hardening Kali Linux Project </b>
+   - [Hardening Kali Linux](https://github.com/Veroro321/Hardening-Kali-Linux )
+  
 <h2> Certifications </h2>
   
 - <b> Leveld Cybersecurity Analyst </b>
