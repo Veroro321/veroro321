@@ -21,7 +21,8 @@
 - <b> Leveld Cybersecurity Analyst </b>
   
 - <b> IBM Introduction to Cybersecurity Tools & Cyber Attacks </b>
-- <b> IBM Protecting Endpoints with Xcitium OpenEDR </b>
+- <b> IBM Cybersecurity Roles, Processes & Operating System
+Security </b>
   
 <h2> 🤳 Connect with me:</h2>
 
