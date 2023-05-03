@@ -7,9 +7,6 @@
 - <b> Azure / Cloud Project </b>
   - [Creating a live SOC/Honeynet in Azure](https://github.com/Veroro321/Azure-SOC)
   
-- <b> Penetration testing with Python </b>
-   - [Penetration-Testing-With-Python](https://github.com/Veroro321/Penetration-Testing-With-Python)
-  
 - <b> Hardening Kali Linux Project </b>
    - [Hardening Kali Linux](https://github.com/Veroro321/Hardening-Kali-Linux )
  
