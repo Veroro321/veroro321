@@ -12,6 +12,9 @@
   
 - <b> Hardening Kali Linux Project </b>
    - [Hardening Kali Linux](https://github.com/Veroro321/Hardening-Kali-Linux )
+ 
+- <b> Protecting Endpoints with Xcitium OpenEDR </b>
+   - [Protecting Endpoints with Xcitium OpenEDR](https://github.com/Veroro321/Protecting-Endpoints-with-Xcitium-OpenEDR)
   
 <h2> Certifications </h2>
   
