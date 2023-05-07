@@ -19,7 +19,7 @@ Security </b>
 <h2> SQL Projects:</h2>
   - [Creating-SQL-Database](https://github.com/Veroro321/Creating-SQL-Database)
   
-
+<h2> Programming Projects:</h2>
   
 <h2> 🤳 Connect with me:</h2>
 
