@@ -15,6 +15,11 @@
 - <b> IBM Introduction to Cybersecurity Tools & Cyber Attacks </b>
 - <b> IBM Cybersecurity Roles, Processes & Operating System
 Security </b>
+
+<h2> SQL Projects:</h2>
+  - [Creating-SQL-Database](https://github.com/Veroro321/Creating-SQL-Database)
+  
+
   
 <h2> 🤳 Connect with me:</h2>
 
