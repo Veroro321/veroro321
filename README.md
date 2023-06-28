@@ -6,6 +6,9 @@
 
 - <b> Azure / Cloud Project </b>
   - [Creating a live SOC/Honeynet in Azure](https://github.com/Veroro321/Azure-SOC)
+
+- <b> Azure / Vulnerability Management Project </b>
+  - [Cybersecurity Vulnerability Management Project]
  
   
 <h2> Certifications </h2>
