@@ -24,6 +24,9 @@ Security </b>
 - [Creating-SQL-Database](https://github.com/Veroro321/Creating-SQL-Database-.git)
   
 <h2> Programming Projects:</h2>
+
+- <b> Rock Paper Scissors Game </b>
+  - [Rock Paper Scissors Game](https://github.com/Veroro321/Rock-Paper-Scissors_Game)
   
 <h2> 🤳 Connect with me:</h2>
 
