@@ -16,8 +16,8 @@
   
 - <b> Leveld Cybersecurity Analyst </b>
   
-- <b> IBM Introduction to Cybersecurity Tools & Cyber Attacks </b>
-- <b> IBM Cybersecurity Roles, Processes & Operating System
+- <b> Google Cybersecurity </b>
+
 Security </b>
 
 <h2> SQL Projects:</h2>
