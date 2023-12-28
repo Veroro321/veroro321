@@ -27,6 +27,9 @@ Security </b>
 
 - <b> Rock Paper Scissors Game </b>
   - [Rock Paper Scissors Game](https://github.com/Veroro321/Rock-Paper-Scissors_Game)
+
+- <b> Weather App </b>
+  - [Weather App](https://github.com/Veroro321/Weather_App)
   
 <h2> 🤳 Connect with me:</h2>
 
