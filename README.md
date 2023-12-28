@@ -17,11 +17,6 @@
 - <b> Leveld Cybersecurity Analyst </b>
   
 - <b> Google Cybersecurity </b>
-
-Security </b>
-
-<h2> SQL Projects:</h2>
-- [Creating-SQL-Database](https://github.com/Veroro321/Creating-SQL-Database-.git)
   
 <h2> Programming Projects:</h2>
 
