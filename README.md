@@ -25,6 +25,10 @@
 
 - <b> Weather App </b>
   - [Weather App](https://github.com/Veroro321/Weather_App)
+ 
+- <b> To do List </b>
+  - [To do List](https://github.com/Veroro321/Todo-List-)
+
   
 <h2> 🤳 Connect with me:</h2>
 
