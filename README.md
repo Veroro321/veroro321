@@ -25,6 +25,9 @@
  
 - <b>To do List </b>
   - [To do List](https://github.com/Veroro321/Todo-List-)
+    
+- <b>Guessing Number Game </b>
+  - [Guess the Number Game](https://github.com/Veroro321/GuessingNumberGame)
 
 - <b> Speech Therapy Website </b>
   - [Speech Therapy Website]
