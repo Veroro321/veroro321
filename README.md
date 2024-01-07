@@ -30,6 +30,7 @@
   - [Guess the Number Game](https://github.com/Veroro321/GuessingNumberGame)
 
 - <b> Modal Window </b>
+  - [Modal Window](https://github.com/Veroro321/ModalWindow) 
 
 - <b> Speech Therapy Website </b>
   - [Speech Therapy Website]
