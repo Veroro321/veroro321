@@ -29,6 +29,8 @@
 - <b>Guessing Number Game </b>
   - [Guess the Number Game](https://github.com/Veroro321/GuessingNumberGame)
 
+- <b> Modal Window </b>
+
 - <b> Speech Therapy Website </b>
   - [Speech Therapy Website]
  
