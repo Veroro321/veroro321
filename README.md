@@ -7,11 +7,6 @@
 - <b> Azure / Cloud Project </b>
   - [Creating a live SOC/Honeynet in Azure](https://github.com/Veroro321/Azure-SOC)
 
-- <b> Azure / Vulnerability Management Project </b>
-  - [Cybersecurity Vulnerability Management Project]
-
-- <b> Nessus Vulnerability Management Project </b>
-  - [Nessus Vulnerability Management Project](https://github.com/Veroro321/Nessus-Vulnerability-Management-Project) 
 <h2> Certifications </h2>
   
 - <b> Leveld Cybersecurity Analyst </b>
@@ -19,6 +14,9 @@
 - <b> Google Cybersecurity </b>
   
 <h2> Programming Projects:</h2>
+
+- <b>Capstone Web Application App</b>
+<a href="https://github.com/Veroro321/FinalCapstone.git">Capstone Web App</a>
 
 - <b> Weather App </b>
   - [Weather App](https://github.com/Veroro321/Weather_App)
