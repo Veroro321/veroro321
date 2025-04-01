@@ -12,6 +12,14 @@
 - <b> Leveld Cybersecurity Analyst </b>
   
 - <b> Google Cybersecurity </b>
+
+- <b>CompTIA Network+</b>
+- <b>CompTIA Security+</b>
+- <b>CompTIA A+</b>
+- <b>GIAC Foundational Cybersecurity Technologies (GFACT)</b>
+- <b>GIAC Security Essentials (GSEC)</b>
+- <b>GIAC Certified Incident Handler (GCIH)</b>
+- <b>LPI Linux Essentials</b>
   
 <h2> Programming Projects:</h2>
 
