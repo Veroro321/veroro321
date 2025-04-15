@@ -20,6 +20,8 @@
 - <b>GIAC Security Essentials (GSEC)</b>
 - <b>GIAC Certified Incident Handler (GCIH)</b>
 - <b>LPI Linux Essentials</b>
+- <b> Splunk Core Certified User</b>
+- <b> Cisco Certified Cybersecurity Associate </b>
   
 <h2> Programming Projects:</h2>
 
