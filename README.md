@@ -22,6 +22,7 @@
 - <b>LPI Linux Essentials</b>
 - <b> Splunk Core Certified User</b>
 - <b> Cisco Certified Cybersecurity Associate </b>
+- <b> Certified Ethical Hacker (CEH)  </b>
   
 <h2> Programming Projects:</h2>
 
