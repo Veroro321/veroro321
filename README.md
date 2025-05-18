@@ -7,8 +7,6 @@
 - <b> Azure / Cloud Project </b>
   - [Creating a live SOC/Honeynet in Azure](https://github.com/Veroro321/Azure-SOC)
 
-- <b> Cyber 12 Projects </b>
-
 <h2> Certifications </h2>
   
 - <b> Leveld Cybersecurity Analyst </b>
