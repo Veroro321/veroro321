@@ -1,6 +1,6 @@
 <h1>Hi, I'm Veronika! </h1>
 
-<h2> Aspiring Cybersecurity Professional <h2>
+
   
 <h2>💻 Cybersecurity Projects:</h2>
 
