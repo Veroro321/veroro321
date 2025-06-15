@@ -16,6 +16,7 @@
 - <b>CompTIA Network+</b>
 - <b>CompTIA Security+</b>
 - <b>CompTIA A+</b>
+- <b>CompTIA Server+</b>
 - <b>GIAC Foundational Cybersecurity Technologies (GFACT)</b>
 - <b>GIAC Security Essentials (GSEC)</b>
 - <b>GIAC Certified Incident Handler (GCIH)</b>
