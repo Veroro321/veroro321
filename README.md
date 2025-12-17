@@ -6,6 +6,10 @@
 
 - <b> Azure / Cloud Project </b>
   - [Creating a live SOC/Honeynet in Azure](https://github.com/Veroro321/Azure-SOC)
+    
+- <b> Malware Analysis Lab with YARA-Based Threat Detection </b>
+  - [Malware Analysis Lab with YARA-Based Threat Detection](https://github.com/Veroro321/Malware-Analysis-Lab-with-YARA-Based-Threat-Detection)
+
 
 <h2> Certifications </h2>
   
