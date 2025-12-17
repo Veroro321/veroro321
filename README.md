@@ -9,6 +9,9 @@
     
 - <b> Malware Analysis Lab with YARA-Based Threat Detection </b>
   - [Malware Analysis Lab with YARA-Based Threat Detection](https://github.com/Veroro321/Malware-Analysis-Lab-with-YARA-Based-Threat-Detection)
+ 
+- <b> Active Directory Lab with Splunk Integration </b>
+  - [Active Directory Lab with Splunk Integration](https://github.com/Veroro321/Azure-SOC](https://github.com/Veroro321/Active-Directory-Lab-with-Splunk-Integration))
 
 
 <h2> Certifications </h2>
