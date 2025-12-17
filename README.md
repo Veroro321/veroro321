@@ -13,6 +13,8 @@
 - <b> Active Directory Lab with Splunk Integration </b>
   - [Active Directory Lab with Splunk Integration](https://github.com/Veroro321/Azure-SOC](https://github.com/Veroro321/Active-Directory-Lab-with-Splunk-Integration))
 
+- <b> SOAR + EDR Cybersecurity Lab Project </b>
+  - [SOAR + EDR Cybersecurity Lab Project](https://github.com/Veroro321/Azure-SO](https://github.com/Veroro321/SOAR-EDR-Cybersecurity-Lab-Project))
 
 <h2> Certifications </h2>
   
