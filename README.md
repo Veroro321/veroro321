@@ -29,9 +29,6 @@
 
 - <b>Capstone Web Application App</b>
 <a href="https://github.com/Veroro321/FinalCapstone.git">Capstone Web App</a>
-
-- <b> Weather App </b>
-  - [Weather App](https://github.com/Veroro321/Weather_App)
  
 - <b>To do List </b>
   - [To do List](https://github.com/Veroro321/Todo-List-)
@@ -42,9 +39,6 @@
 - <b> Modal Window </b>
   - [Modal Window](https://github.com/Veroro321/ModalWindow) 
 
-- <b> Speech Therapy Website </b>
-  - [Speech Therapy Website]
- 
 
 <h2> 🤳 Connect with me:</h2>
 
