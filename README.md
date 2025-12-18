@@ -11,7 +11,7 @@
   - [Malware Analysis Lab with YARA-Based Threat Detection](https://github.com/Veroro321/Malware-Analysis-Lab-with-YARA-Based-Threat-Detection)
  
 - <b> Active Directory Lab with Splunk Integration </b>
-  - [Active Directory Lab with Splunk Integration](https://github.com/Veroro321/Azure-SOC](https://github.com/Veroro321/Active-Directory-Lab-with-Splunk-Integration)](https://github.com/Veroro321/Active-Directory-Lab-with-Splunk-Integration))
+  - [Active Directory Lab with Splunk Integration](https://github.com/Veroro321/Malware-Analysis-Lab-with-YARA-Based-Threat-Detection)
 
 - <b> SOAR + EDR Cybersecurity Lab Project </b>
   - [SOAR + EDR Cybersecurity Lab Project](https://github.com/Veroro321/Azure-SO](https://github.com/Veroro321/SOAR-EDR-Cybersecurity-Lab-Project))
