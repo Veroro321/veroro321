@@ -12,9 +12,7 @@
 
 - <b> SOAR + EDR Cybersecurity Lab Project </b>
   - [SOAR + EDR Cybersecurity Lab Project](https://github.com/Veroro321/SOAR-EDR-Cybersecurity-Lab-Project)
- 
-- <b> Malware Analysis Lab with YARA-Based Threat Detection </b>
-  - [Malware Analysis Lab with YARA-Based Threat Detection](https://github.com/Veroro321/Malware-Analysis-Lab-with-YARA-Based-Threat-Detection)
+
 
 <h2> Certifications </h2>
   
