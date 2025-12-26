@@ -15,7 +15,7 @@
 
 - <b> TryHackMe Cyber Advent Calendar 2025 </b>
   - Completed 24 daily cybersecurity challenges in web exploitation, cryptography, and network security. Applied tools: Kali Linux, Burp Suite, Wireshark.
- 
+  
 <img src="https://tryhackme-badges.s3.amazonaws.com/Veroro.png" alt="Your Image Badge" />
 
 
