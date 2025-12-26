@@ -13,6 +13,8 @@
 - <b> SOAR + EDR Cybersecurity Lab Project </b>
   - [SOAR + EDR Cybersecurity Lab Project](https://github.com/Veroro321/SOAR-EDR-Cybersecurity-Lab-Project)
 
+- <b> TryHackMe Cyber Advent Calendar 2025 </b>
+  - Completed 24 daily cybersecurity challenges in web exploitation, cryptography, and network security. Applied tools: Kali Linux, Burp Suite, Wireshark.
 
 <h2> Certifications </h2>
   
@@ -48,17 +50,3 @@
 
 
 <h2> 🤳 Connect with me:</h2>
-
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
