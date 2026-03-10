@@ -12,6 +12,9 @@
 
 - <b> SOAR + EDR Cybersecurity Lab Project </b>
   - [SOAR + EDR Cybersecurity Lab Project](https://github.com/Veroro321/SOAR-EDR-Cybersecurity-Lab-Project)
+ 
+- <b> Python & Threat Hunting w/Agentic AI (Full Course) </b>
+  - [Python Threat Hunting Lab](https://github.com/Veroro321/Python-Threat-Hunting-Agentic-AI)
 
 - <b> TryHackMe Cyber Advent Calendar 2025 </b>
   - Completed 24 daily cybersecurity challenges in web exploitation, cryptography, and network security. Applied tools: Kali Linux, Burp Suite, Wireshark.
