@@ -11,7 +11,7 @@
   - [Active Directory Lab with Splunk Integration](https://github.com/Veroro321/Active-Directory-Lab-with-Splunk-Integration)
 
 - <b> Vulnerability Scanning Lab </b>
-  - [Vulnerability Scanning Lab GitHub](https://github.com/Veroro321/Vulnerability-Scanning-Lab-)
+  - [Vulnerability Scanning Lab](https://github.com/Veroro321/Vulnerability-Scanning-Lab-)
  
 - <b> Python & Threat Hunting w/Agentic AI </b>
   - [Python Threat Hunting Lab](https://github.com/Veroro321/Python-Threat-Hunting-Agentic-AI)
