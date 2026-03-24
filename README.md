@@ -16,8 +16,12 @@
 - <b> Python & Threat Hunting w/Agentic AI </b>
   - [Python Threat Hunting Lab](https://github.com/Veroro321/Python-Threat-Hunting-Agentic-AI)
 
+- <b>Threat Hunting: Unauthorized TOR Usage</b>
+  - Threat Hunting Lab – Unauthorized TOR Usage
+
 - <b> TryHackMe Cyber Advent Calendar 2025 </b>
   - Completed 24 daily cybersecurity challenges in web exploitation, cryptography, and network security. Applied tools: Kali Linux, Burp Suite, Wireshark.
+
   
 <img src="https://tryhackme-badges.s3.amazonaws.com/Veroro.png" alt="Your Image Badge" />
 
