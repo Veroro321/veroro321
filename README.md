@@ -17,7 +17,7 @@
   - [Python Threat Hunting Lab](https://github.com/Veroro321/Python-Threat-Hunting-Agentic-AI)
 
 - <b>Threat Hunting: Unauthorized TOR Usage</b>
-  - Threat Hunting Lab – Unauthorized TOR Usage
+  - [Threat Hunting Lab – Unauthorized TOR Usage](https://github.com/Veroro321/Threat-Hunting-Project-)
 
 - <b> TryHackMe Cyber Advent Calendar 2025 </b>
   - Completed 24 daily cybersecurity challenges in web exploitation, cryptography, and network security. Applied tools: Kali Linux, Burp Suite, Wireshark.
